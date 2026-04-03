@@ -18,6 +18,13 @@
 
 </div>
 
+Name      : Farhaad Ahmad
+Role      : Founder @ Codzen
+Focus     : AI Systems · Automation · Web
+Mindset   : Builder > Talker
+Learning  : Python · DSA · AI · System Design
+Mission   : Build tools that save time globally
+
 ---
 
 ```bash
