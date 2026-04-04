@@ -54,6 +54,6 @@
  * I'm currently working on 🔭 building **Mobile Apps using Flutter** and working up on polishing my skills 🌱 in **Competitive Programming**.
  
 ## Other Stuff
-  - :octocat: [My Resume]()
+  - :octocat: [My Resume](https://drive.google.com/file/d/10w64E6WY58uWGBDGBkAB6Lyn7VO-tElF/view?usp=sharing)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF1E1E&height=120&section=footer" alt="footer"/>
