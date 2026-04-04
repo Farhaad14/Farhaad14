@@ -1,4 +1,8 @@
-## Hey, [Farhaad Here!]  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
+
+## <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=435&lines=Hello%2C+it's+Farhaad+Ahmad;" alt="Business Analyst"/>
+</a>  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
 <h1>Welcome To The Shadows Of My Digital World...</h1> 
 
@@ -15,7 +19,7 @@
 * Automation
 * Machine Learning
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MarikIshtar007&layout=compact">
+
 
 ## Programming Languages
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/java.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/kotlin.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/bootstrap.svg' width='33'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/dart.svg' width='33'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/php.svg' width='40'/>
@@ -53,3 +57,5 @@
  
 ## Other Stuff
   - :octocat: [My Resume]()
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
