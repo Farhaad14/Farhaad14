@@ -1,119 +1,55 @@
-<!-- <div align="center">
+## Hey, [Farhaad Here!](https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Farhaad%20Ahmad&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Code.%20Build.%20Dominate.&descAlignY=60&descSize=18" width="100%"/>
+<h1>Welcome to my humble abode in the Digital World..</h1> 
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=750&lines=Building+Codzen+🚀;AI+%7C+Automation+%7C+Web+Dev;Future+Entrepreneur;DSA+Grind+🔥;Batman+Mindset" />
-</a>
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
 
-<br><br>
+[![linkedin Badge](https://img.shields.io/badge/-haanyali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haany-ali)](https://www.linkedin.com/in/haany-ali) [![Gmail Badge](https://img.shields.io/badge/-asterp04@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:asterp04@gmail.com)](mailto:asterp04@gmail.com) [![Youtube Channel](https://img.shields.io/badge/-The%20Broke%20Coder-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)](https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MarikIshtar007" alt="MarikIshtar007" /> </p>
 
-<img src="https://komarev.com/ghpvc/?username=yourusername&label=PROFILE+VIEWS&style=for-the-badge&color=00F5FF&labelColor=0d1117"/>
+<div style="text-align: right">There are 10 types of people in the world. Those who get Binary and those who don't.. </div>
 
-<br/><br/>
+## :computer: Technologies I Love
 
-<a href="https://github.com/yourusername">
-  <img src="https://img.shields.io/github/followers/yourusername?label=FOLLOWERS&style=for-the-badge&color=00F5FF&labelColor=0d1117&logo=github"/>
-</a>
+* Frontend and Backend Web Development
+* Automation
+* Machine Learning
 
-</div>
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MarikIshtar007&layout=compact">
 
-Name      : Farhaad Ahmad
-Role      : Founder @ Codzen
-Focus     : AI Systems · Automation · Web
-Mindset   : Builder > Talker
-Learning  : Python · DSA · AI · System Design
-Mission   : Build tools that save time globally
-
----
-
-```bash
-> whoami -->
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=300&color=gradient&text=Farhaad%20Ahmad&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Throttle%20Development&descAlignY=60&descSize=18" width="100%"/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=FF2D2D&center=true&vCenter=true&width=750&lines=Racing+Through+Code+🏎️;Building+Codzen+⚡;AI+%7C+Automation+%7C+Web;DSA+Daily+Grind;No+Brakes.+Just+Build." />
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=yourusername&label=TOTAL+LAPS&style=for-the-badge&color=FF2D2D&labelColor=0d1117"/>
-
-<br/><br/>
-
-<a href="https://github.com/yourusername">
-  <img src="https://img.shields.io/github/followers/yourusername?label=PIT+CREW&style=for-the-badge&color=FF2D2D&labelColor=0d1117&logo=github"/>
-</a>
-
-</div>
-
----
-
-
-> driver_profile
-Name      : Farhaad Ahmad
-Team      : Codzen Racing 🏎️
-Role      : Founder / Developer
-Track     : AI · Automation · Web
-Mindset   : No excuses. Just execution.
-Mission   : Build high-speed digital systems
-> race_philosophy
-"Speed matters. But consistency wins championships."
-"Focus. Build. Repeat."
-"Pressure creates diamonds."
-🏁 Connect with Driver
-<div align="center">
-
-
-
-
-
-
-
-
-</div>
-🏎️ Tech Garage
-<div align="center">
-Engine Core
-
-
-
-
-Aerodynamics (Web)
-
-
-
-
-
-
-AI Systems (Turbo)
-
-
-
-
-Tools (Pit Crew)
-
-
-
-
-</div>
-⚡ Live Telemetry
-race_status = {
-    "current_lap" : "Building Codzen AI System",
-    "training"    : "DSA + Python",
-    "mode"        : "Full Focus",
-    "next_goal"   : "Scale globally"
-}
-[RUNNING] Codzen AI System
-[ACTIVE] DSA Daily Practice
-[MODE] FULL THROTTLE
-📊 Race Stats
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true&bg_color=0d1117&title_color=FF2D2D&icon_color=FF2D2D&text_color=c9d1d9&count_private=true"/> <img width="68%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&hide_border=true&background=0d1117&stroke=FF2D2D&ring=FF2D2D&fire=FF2D2D&currStreakLabel=FF2D2D"/> </div>
-<div align="center">
-"No brakes. No fear. Just forward."
-
-📬 Contact: yourmail@gmail.com
-
-</div> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2D2D,50:0d1117,100:000000&height=120&section=footer"/>
+## Programming Languages
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/java.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/kotlin.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/bootstrap.svg' width='33'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/dart.svg' width='33'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/php.svg' width='40'/>
+ <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/> 
+ 
+ ## Technologies I Use
+ <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/pycharm.svg' width='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/android.svg' height='40'/><img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flutter-logo.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/django.svg' height='40'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flask.png' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/nodejs.svg' width='33'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/react.svg' width='33'/>
+ 
+ ## Who am I?
+ ```python
+ class WhoAmI:
+ 	user = 'Farhaad Ahmad'
+		current_work = 'Writing code'
+		hobbies = [
+				'CARS',
+				'Watching Motorsports',
+				'Reading Novels'
+				'Being up all Night chasing that ONE BUG...'
+			]
+	
+	def getCity():
+		return DEL_India()
+	
+	def Ambitions():
+		LearnGerman()
+		CreateSkyNet()
+		FinishMyNovel()
+		# Assume 10 more awesome ambitions here  ;)
+	
+ ```
+ 
+## Current Works
+ * Breaking into Cybersec !!
+ * I'm currently working on 🔭 building **Mobile Apps using Flutter** and working up on polishing my skills 🌱 in **Competitive Programming**.
+ 
+## Other Stuff
+  - :octocat: [My Resume]()
