@@ -32,7 +32,7 @@
  	user = 'Farhaad Ahmad'
 		current_work = 'Writing code'
 		hobbies = [
-				'CARS',
+				'CARS & BIKES',
 				'Watching Motorsports',
 				'Reading Novels'
 				'Being up all Night chasing that ONE BUG...'
@@ -43,7 +43,8 @@
 	
 	def Ambitions():
 		LearnGerman()
-		CreateSkyNet()
+		BuildMyStartuptoUnicorn()
+		OwnFerrari()
 		FinishMyNovel()
 		# Assume 10 more awesome ambitions here  ;)
 	
